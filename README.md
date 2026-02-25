@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello There ! 👋
 
 <!--
 **AYMEN2077/AYMEN2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is just a temporary readme until i actually have some projects and experience to brag about,
+Thanks for tuning in.
